@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/OLX-Assignment/static/css/main.65788a47.chunk.css",
+    "main.js": "/OLX-Assignment/static/js/main.3d378f38.chunk.js",
+    "main.js.map": "/OLX-Assignment/static/js/main.3d378f38.chunk.js.map",
+    "runtime-main.js": "/OLX-Assignment/static/js/runtime-main.6c8dec81.js",
+    "runtime-main.js.map": "/OLX-Assignment/static/js/runtime-main.6c8dec81.js.map",
+    "static/css/2.2a86faee.chunk.css": "/OLX-Assignment/static/css/2.2a86faee.chunk.css",
+    "static/js/2.8d262473.chunk.js": "/OLX-Assignment/static/js/2.8d262473.chunk.js",
+    "static/js/2.8d262473.chunk.js.map": "/OLX-Assignment/static/js/2.8d262473.chunk.js.map",
+    "index.html": "/OLX-Assignment/index.html",
+    "precache-manifest.b0a85e5470d56627cc16e064533a1225.js": "/OLX-Assignment/precache-manifest.b0a85e5470d56627cc16e064533a1225.js",
+    "service-worker.js": "/OLX-Assignment/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/OLX-Assignment/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.65788a47.chunk.css.map": "/OLX-Assignment/static/css/main.65788a47.chunk.css.map",
+    "static/js/2.8d262473.chunk.js.LICENSE.txt": "/OLX-Assignment/static/js/2.8d262473.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c8dec81.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.8d262473.chunk.js",
+    "static/css/main.65788a47.chunk.css",
+    "static/js/main.3d378f38.chunk.js"
+  ]
+}
